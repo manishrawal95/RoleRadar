@@ -1,4 +1,4 @@
-# RoleRadar — AI Job Search Advisor
+# RoleRadar - Job Discovery Platform. Fresh Jobs Only.
 
 > **Product case study** · Live at [roleradar.xyz](https://roleradar.xyz)
 
@@ -157,5 +157,6 @@ PREP TOOLS: Interview prep, resume tailoring, networking drafts — per job
 ---
 
 *RoleRadar is a working product, not a demo. Built to solve a problem I had, with product decisions I'd defend in a PM interview.*
+
 
 
